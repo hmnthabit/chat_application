@@ -1,4 +1,4 @@
-# Chat Application: A multi-client chat application written in python 
+# A Multi-Client Chat Application
 
 ## Features
 
